@@ -1,0 +1,3 @@
+Resource Type - 24
+Resource Name - 1
+Resource Language - 3081

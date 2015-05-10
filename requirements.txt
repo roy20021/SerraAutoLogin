@@ -1,0 +1,8 @@
+Source Code:
+- python 3.4
+- PyQt5 5.4.1
+- requests
+
+Building and Setup:
+- Inno setup 5.5.5
+- cx_Freeze 4.3.4 (win only)
